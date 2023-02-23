@@ -4,6 +4,5 @@ In this web app you can see the best rated restaurants around you and also help 
 
 This app was created using DJANGO, Python, GOOGLE api, and Amazon AWS.
 
-Here are some images of the web app.
-
+Deployed app: https://crave.herokuapp.com/
 
